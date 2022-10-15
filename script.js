@@ -50,5 +50,5 @@ datePicker.addEventListener('change',function(){
 	ageDays.innerHTML=days;
 	ageHours.innerHTML=hours;
 	ageSeconds.innerHTML=seconds;
-	ageMilliSeconds.innerHTML=milliSeconds;
+	ageMilliSeconds.innerHTML=milliSeconds;g
 })
